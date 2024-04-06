@@ -1,7 +1,7 @@
 ### Welcome to Efe's Progress Journal
 
 You can see all assignments done throughtout this course in below.
-My [journal link](https://bu-ie-423.github.io/fall-24-EfeBuyukarslan/).
+My [journal link]([https://bu-ie-423.github.io/fall-24-EfeBuyukarslan/](https://bu-ie-360.github.io/spring24-EfeBuyukarslan/).
 
 ## My Assignments
 # Homework 1
